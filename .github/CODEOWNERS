@@ -1,0 +1,5 @@
+# DevOps owns everything by default
+* @guestready/devops
+
+# Code owners
+/.github/CODEOWNERS @guestready/lead-developers @guestready/product-managers
