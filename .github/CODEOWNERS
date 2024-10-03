@@ -2,4 +2,4 @@
 * @guestready/devops
 
 # Code owners
-/.github/CODEOWNERS @guestready/lead-developers @guestready/product-managers
+/.github/CODEOWNERS @guestready/lead-developers
